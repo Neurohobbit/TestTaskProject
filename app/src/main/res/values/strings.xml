@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="status_label">Status: %s</string>
+    <string name="due_on_label">Due on: %s</string>
+</resources>
